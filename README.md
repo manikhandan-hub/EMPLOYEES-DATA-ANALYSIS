@@ -1,5 +1,3 @@
-  ### EMPLOYERS-DATA-ANALYSIS
-
   ### What the project does
 - Collected employees data in an organisation plotted charts for better understanding about business and some important insights.
   ### Why the project is useful
