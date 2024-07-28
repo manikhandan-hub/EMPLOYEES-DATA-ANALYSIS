@@ -29,14 +29,19 @@
 - The average score is 3 so which is fair enough and should imporve.
 - Plotted a charted it shows clearly according to job role and the satisfaction ratio increases according to the salary hike percentage.
 
-###  
 
+###  Attrition 
+- We have plottet ribbon chart including two different colours which shows years they are working and how many employees attrited.
+- Attrition means employees leaving the company.
+- We have role based attrition whose working long time in our organisation which job role people leaving very soon. 
+  
+### Training and Performance 
+ - Plotted line chart which shows training times and their performance score.
+ - The line clearly shows training and performance are very parallel
+ - So training to employees will defenitely helps performance of employees and also growth of the company.
+ - And also we have which job role getting more training and which job role getting low training programs.
 
-
-
-
-
-
+### 
 
 
 
