@@ -23,9 +23,13 @@
  - Sales - 30%
  - Human Resources - 4.27%
  ### Salary Hike And Job Satisfaction
--In an organisation the important thing is increasing the salary according to the experiance and Performance.
-- We have job satisfaction points also it indicates employees feedback about 
--
+- In an organisation the important thing is increasing the salary according to the experiance and Performance.
+- We have job satisfaction points also it indicates employees feedback about their job.
+- Overall job satisfaction ratio is 4
+- The average score is 3 so which is fair enough and should imporve.
+- Plotted a charted it shows clearly according to job role and the satisfaction ratio increases according to the salary hike percentage.
+
+###  
 
 
 
