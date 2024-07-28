@@ -24,7 +24,7 @@
  - Human Resources - 4.27%
  ### Salary Hike And Job Satisfaction
 -In an organisation the important thing is increasing the salary according to the experiance and Performance.
-- We can job satisfaction points also it indicates employees feedback about 
+- We have job satisfaction points also it indicates employees feedback about 
 -
 
 
