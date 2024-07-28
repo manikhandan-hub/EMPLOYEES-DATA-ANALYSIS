@@ -45,7 +45,7 @@
  - Bar chart for indicating working time and business travel
  - In this chart it mentioned standard working hours and also there is business travel bars indicates which job roles has more travel requires.
  - We can confirm only few roles have to travel and very rarely employees should travel for business purpose.
-### Conclusion
+
 
 
 
