@@ -37,11 +37,16 @@
   
 ### Training and Performance 
  - Plotted line chart which shows training times and their performance score.
- - The line clearly shows training and performance are very parallel
+ - The line clearly shows training and performance are very parallel.
  - So training to employees will defenitely helps performance of employees and also growth of the company.
- - And also we have which job role getting more training and which job role getting low training programs.
+ - And also we have which job role getting more trainings and which job role getting low training programs.
 
-### 
+### Business Travel and standard working time
+ - Bar chart for indicating working time and business travel
+ - In this chart it mentioned standard working hours and also there is business travel bars indicates which job roles has more travel requires.
+ - We can confirm only few roles have to travel and very rarely employees should travel for business purpose.
+### Conclusion
+
 
 
 
